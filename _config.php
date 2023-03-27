@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "http://anikatsu.shashanktiwar11.repl.co"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://api.animedex.live/"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
